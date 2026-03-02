@@ -1,0 +1,157 @@
+Added Component: Designator=C?(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279352311"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор NPO 50V 6800pF ±5% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(IC: SOIC 8)
+Added Component: Designator=DA?(IC: SOIC 8)
+Added Component: Designator=DA?(IC: SOIC 8)
+Added Component: Designator=L?(IND: SM-LP-5001E)
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069180761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 680R ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069180761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 680R ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6027158691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805FR-071KL, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 7,5k±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069180761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 680R ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069180761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 680R ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094354057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 51K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069180621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 200R±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6027158691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805FR-071KL, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069174188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 1k ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069174188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 1k ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6027158691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805FR-071KL, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357331"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 3К ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=SUM?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=X?(DIN 2x16 32MR)
+Added Pin To Net: NetName=+1.65 Pin=R?-2
+Added Net: Name=+1.65
+Added Pin To Net: NetName=+12 Pin=DA?-8
+Added Net: Name=+12
+Added Pin To Net: NetName=-12 Pin=DA?-4
+Added Net: Name=-12
+Added Pin To Net: NetName=GNDA Pin=C?-2
+Added Pin To Net: NetName=GNDA Pin=R?-1
+Added Pin To Net: NetName=GNDA Pin=R?-1
+Added Pin To Net: NetName=GNDA Pin=R?-1
+Added Pin To Net: NetName=GNDA Pin=R?-1
+Added Pin To Net: NetName=GNDA Pin=R?-2
+Added Net: Name=GNDA
+Added Pin To Net: NetName=GNDD Pin=R?-1
+Added Net: Name=GNDD
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetDA?_1 Pin=DA?-1
+Added Pin To Net: NetName=NetDA?_1 Pin=R?-1
+Added Pin To Net: NetName=NetDA?_1 Pin=R?-2
+Added Pin To Net: NetName=NetDA?_1 Pin=TP?-1
+Added Net: Name=NetDA?_1
+Add Net: Net with name "NetDA?_1" already exists
+Added Pin To Net: NetName=NetDA?_2 Pin=DA?-2
+Added Pin To Net: NetName=NetDA?_2 Pin=R?-1
+Added Pin To Net: NetName=NetDA?_2 Pin=R?-2
+Added Net: Name=NetDA?_2
+Add Net: Net with name "NetDA?_2" already exists
+Added Pin To Net: NetName=NetDA?_3 Pin=DA?-3
+Added Pin To Net: NetName=NetDA?_3 Pin=R?-1
+Added Pin To Net: NetName=NetDA?_3 Pin=R?-2
+Added Net: Name=NetDA?_3
+Add Net: Net with name "NetDA?_3" already exists
+Added Pin To Net: NetName=NetDA?_6 Pin=DA?-6
+Added Pin To Net: NetName=NetDA?_6 Pin=R?-2
+Added Pin To Net: NetName=NetDA?_6 Pin=R?-2
+Added Net: Name=NetDA?_6
+Added Pin To Net: NetName=NetDA?_7 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_7 Pin=R?-1
+Added Pin To Net: NetName=NetDA?_7 Pin=R?-2
+Added Net: Name=NetDA?_7
+Added Pin To Net: NetName=NetL?_3 Pin=L?-3
+Added Pin To Net: NetName=NetL?_3 Pin=R?-2
+Added Net: Name=NetL?_3
+Added Pin To Net: NetName=NetL?_4 Pin=L?-4
+Added Pin To Net: NetName=NetL?_4 Pin=R?-1
+Added Net: Name=NetL?_4
+Added Pin To Net: NetName=NetL?_6 Pin=L?-6
+Added Pin To Net: NetName=NetL?_6 Pin=R?-1
+Added Net: Name=NetL?_6
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=TP?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=PWR1 Pin=R?-1
+Added Net: Name=PWR1
+Added Pin To Net: NetName=PWR2 Pin=R?-1
+Added Net: Name=PWR2
+Added Pin To Net: NetName=PWR_1 Pin=R?-1
+Added Net: Name=PWR_1
+Added Pin To Net: NetName=PWR_2 Pin=R?-1
+Added Net: Name=PWR_2
+Added Pin To Net: NetName=SUM Pin=R?-2
+Added Net: Name=SUM
+Added Class: Name=Curr_and_Meas
+Added Class: Name=REO_channel
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
