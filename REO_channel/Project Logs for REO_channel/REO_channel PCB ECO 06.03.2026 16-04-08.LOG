@@ -1,0 +1,112 @@
+Added Component: Designator=DA2_Current1(IC: SOIC 8)
+Added Component: Designator=DA2_Current2(IC: SOIC 8)
+Added Component: Designator=L1_Current1(IND: SM-LP-5001E)
+Added Component: Designator=L1_Current2(IND: SM-LP-5001E)
+Added Component: Designator=R15_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R16_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R16_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R17_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R17_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094352561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 2k±1%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=R18_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6027158691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805FR-071KL, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=R18_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6027158691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805FR-071KL, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=R19_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R19_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R20_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R20_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R21_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R21_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R22_Current1(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6027158691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805FR-071KL, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=R22_Current2(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6027158691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805FR-071KL, Yageo"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA2_Current1_1 Pin=DA2_Current1-1
+Added Pin To Net: NetName=NetDA2_Current1_2 Pin=DA2_Current1-2
+Added Pin To Net: NetName=NetDA2_Current1_3 Pin=DA2_Current1-3
+Added Pin To Net: NetName=NetDA2_Current2_1 Pin=DA2_Current2-1
+Added Pin To Net: NetName=NetDA2_Current2_2 Pin=DA2_Current2-2
+Added Pin To Net: NetName=NetDA2_Current2_3 Pin=DA2_Current2-3
+Added Pin To Net: NetName=NetL1_Current1_3 Pin=L1_Current1-3
+Added Pin To Net: NetName=NetL1_Current1_4 Pin=L1_Current1-4
+Added Pin To Net: NetName=NetL1_Current1_6 Pin=L1_Current1-6
+Added Pin To Net: NetName=NetL1_Current2_3 Pin=L1_Current2-3
+Added Pin To Net: NetName=NetL1_Current2_4 Pin=L1_Current2-4
+Added Pin To Net: NetName=NetL1_Current2_6 Pin=L1_Current2-6
+Added Pin To Net: NetName=NetDA2_Current1_2 Pin=R15_Current1-1
+Added Pin To Net: NetName=NetR15_Current1_2 Pin=R15_Current1-2
+Added Pin To Net: NetName=NetDA2_Current2_2 Pin=R15_Current2-1
+Added Pin To Net: NetName=NetR15_Current2_2 Pin=R15_Current2-2
+Added Pin To Net: NetName=NetDA2_Current1_3 Pin=R16_Current1-1
+Added Pin To Net: NetName=GNDA Pin=R16_Current1-2
+Added Pin To Net: NetName=NetDA2_Current2_3 Pin=R16_Current2-1
+Added Pin To Net: NetName=GNDA Pin=R16_Current2-2
+Added Pin To Net: NetName=NetDA2_Current1_1 Pin=R17_Current1-1
+Added Pin To Net: NetName=NetDA2_Current1_2 Pin=R17_Current1-2
+Added Pin To Net: NetName=NetDA2_Current2_1 Pin=R17_Current2-1
+Added Pin To Net: NetName=NetDA2_Current2_2 Pin=R17_Current2-2
+Added Pin To Net: NetName=NetR18_Current1_1 Pin=R18_Current1-1
+Added Pin To Net: NetName=NetDA2_Current1_3 Pin=R18_Current1-2
+Added Pin To Net: NetName=NetR18_Current2_1 Pin=R18_Current2-1
+Added Pin To Net: NetName=NetDA2_Current2_3 Pin=R18_Current2-2
+Added Pin To Net: NetName=GNDA Pin=R19_Current1-1
+Added Pin To Net: NetName=NetL1_Current1_3 Pin=R19_Current1-2
+Added Pin To Net: NetName=GNDA Pin=R19_Current2-1
+Added Pin To Net: NetName=NetL1_Current2_3 Pin=R19_Current2-2
+Added Pin To Net: NetName=NetL1_Current1_4 Pin=R20_Current1-1
+Added Pin To Net: NetName=NetL1_Current2_4 Pin=R20_Current2-1
+Added Pin To Net: NetName=NetL1_Current1_6 Pin=R21_Current1-1
+Added Pin To Net: NetName=NetL1_Current2_6 Pin=R21_Current2-1
+Added Pin To Net: NetName=NetDA2_Current1_1 Pin=R22_Current1-1
+Added Pin To Net: NetName=NetR18_Current1_1 Pin=R22_Current1-2
+Added Pin To Net: NetName=NetDA2_Current2_1 Pin=R22_Current2-1
+Added Pin To Net: NetName=NetR18_Current2_1 Pin=R22_Current2-2
+Added Member To Class: ClassName=Current1 Member=Component DA2_Current1 (DA2A) AD8028
+Added Member To Class: ClassName=Current2 Member=Component DA2_Current2 (DA2A) AD8028
+Added Member To Class: ClassName=Current1 Member=Component L1_Current1 (L1) SM-LP-5001
+Added Member To Class: ClassName=Current2 Member=Component L1_Current2 (L1) SM-LP-5001
+Added Member To Class: ClassName=Current1 Member=Component R15_Current1 (R15) 2k ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R15_Current2 (R15) 2k ±1% 0805
+Added Member To Class: ClassName=Current1 Member=Component R16_Current1 (R16) 2k ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R16_Current2 (R16) 2k ±1% 0805
+Added Member To Class: ClassName=Current1 Member=Component R17_Current1 (R17) 2k ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R17_Current2 (R17) 2k ±1% 0805
+Added Member To Class: ClassName=Current1 Member=Component R18_Current1 (R18) 1k ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R18_Current2 (R18) 1k ±1% 0805
+Added Member To Class: ClassName=Current1 Member=Component R19_Current1 (R19) 0 ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R19_Current2 (R19) 0 ±1% 0805
+Added Member To Class: ClassName=Current1 Member=Component R20_Current1 (R20) 0 ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R20_Current2 (R20) 0 ±1% 0805
+Added Member To Class: ClassName=Current1 Member=Component R21_Current1 (R21) 0 ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R21_Current2 (R21) 0 ±1% 0805
+Added Member To Class: ClassName=Current1 Member=Component R22_Current1 (R22) 1k ±1% 0805
+Added Member To Class: ClassName=Current2 Member=Component R22_Current2 (R22) 1k ±1% 0805

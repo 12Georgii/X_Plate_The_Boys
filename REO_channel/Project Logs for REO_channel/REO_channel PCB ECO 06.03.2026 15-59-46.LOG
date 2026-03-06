@@ -1,0 +1,78 @@
+Add Component: Footprint Not Found IC: SOIC 8
+Add Component: Footprint Not Found IC: SOIC 8
+Add Component: Footprint Not Found IND: SM-LP-5001E
+Add Component: Footprint Not Found IND: SM-LP-5001E
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Component: Footprint Not Found RES: SMD 0805 MD IPC 782
+Add Pin To Net: Unknown Pin: Pin DA2_Current1-1
+Add Pin To Net: Unknown Pin: Pin DA2_Current1-2
+Add Pin To Net: Unknown Pin: Pin DA2_Current1-3
+Add Pin To Net: Unknown Pin: Pin DA2_Current2-1
+Add Pin To Net: Unknown Pin: Pin DA2_Current2-2
+Add Pin To Net: Unknown Pin: Pin DA2_Current2-3
+Add Pin To Net: Unknown Pin: Pin L1_Current1-3
+Add Pin To Net: Unknown Pin: Pin L1_Current1-4
+Add Pin To Net: Unknown Pin: Pin L1_Current1-6
+Add Pin To Net: Unknown Pin: Pin L1_Current2-3
+Add Pin To Net: Unknown Pin: Pin L1_Current2-4
+Add Pin To Net: Unknown Pin: Pin L1_Current2-6
+Add Pin To Net: Unknown Pin: Pin R15_Current1-1
+Add Pin To Net: Unknown Pin: Pin R15_Current2-1
+Add Pin To Net: Unknown Pin: Pin R16_Current1-1
+Add Pin To Net: Unknown Pin: Pin R16_Current1-2
+Add Pin To Net: Unknown Pin: Pin R16_Current2-1
+Add Pin To Net: Unknown Pin: Pin R16_Current2-2
+Add Pin To Net: Unknown Pin: Pin R17_Current1-1
+Add Pin To Net: Unknown Pin: Pin R17_Current1-2
+Add Pin To Net: Unknown Pin: Pin R17_Current2-1
+Add Pin To Net: Unknown Pin: Pin R17_Current2-2
+Add Pin To Net: Unknown Pin: Pin R18_Current1-1
+Add Pin To Net: Unknown Pin: Pin R18_Current1-2
+Add Pin To Net: Unknown Pin: Pin R18_Current2-1
+Add Pin To Net: Unknown Pin: Pin R18_Current2-2
+Add Pin To Net: Unknown Pin: Pin R19_Current1-1
+Add Pin To Net: Unknown Pin: Pin R19_Current1-2
+Add Pin To Net: Unknown Pin: Pin R19_Current2-1
+Add Pin To Net: Unknown Pin: Pin R19_Current2-2
+Add Pin To Net: Unknown Pin: Pin R20_Current1-1
+Add Pin To Net: Unknown Pin: Pin R20_Current2-1
+Add Pin To Net: Unknown Pin: Pin R21_Current1-1
+Add Pin To Net: Unknown Pin: Pin R21_Current2-1
+Add Pin To Net: Unknown Pin: Pin R22_Current1-1
+Add Pin To Net: Unknown Pin: Pin R22_Current1-2
+Add Pin To Net: Unknown Pin: Pin R22_Current2-1
+Add Pin To Net: Unknown Pin: Pin R22_Current2-2
+Add Class Member: Failed to add class member : Component DA2_Current1 (DA2A) AD8028
+Add Class Member: Failed to add class member : Component DA2_Current2 (DA2A) AD8028
+Add Class Member: Failed to add class member : Component L1_Current1 (L1) SM-LP-5001
+Add Class Member: Failed to add class member : Component L1_Current2 (L1) SM-LP-5001
+Add Class Member: Failed to add class member : Component R15_Current1 (R15) 2k ±1% 0805
+Add Class Member: Failed to add class member : Component R15_Current2 (R15) 2k ±1% 0805
+Add Class Member: Failed to add class member : Component R16_Current1 (R16) 2k ±1% 0805
+Add Class Member: Failed to add class member : Component R16_Current2 (R16) 2k ±1% 0805
+Add Class Member: Failed to add class member : Component R17_Current1 (R17) 2k ±1% 0805
+Add Class Member: Failed to add class member : Component R17_Current2 (R17) 2k ±1% 0805
+Add Class Member: Failed to add class member : Component R18_Current1 (R18) 1k ±1% 0805
+Add Class Member: Failed to add class member : Component R18_Current2 (R18) 1k ±1% 0805
+Add Class Member: Failed to add class member : Component R19_Current1 (R19) 0 ±1% 0805
+Add Class Member: Failed to add class member : Component R19_Current2 (R19) 0 ±1% 0805
+Add Class Member: Failed to add class member : Component R20_Current1 (R20) 0 ±1% 0805
+Add Class Member: Failed to add class member : Component R20_Current2 (R20) 0 ±1% 0805
+Add Class Member: Failed to add class member : Component R21_Current1 (R21) 0 ±1% 0805
+Add Class Member: Failed to add class member : Component R21_Current2 (R21) 0 ±1% 0805
+Add Class Member: Failed to add class member : Component R22_Current1 (R22) 1k ±1% 0805
+Add Class Member: Failed to add class member : Component R22_Current2 (R22) 1k ±1% 0805
